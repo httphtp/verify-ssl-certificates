@@ -2,3 +2,6 @@
 
 
 
+### Bugs
+
+- [ ] greater than or equal to android 7.0 has sslhandshakeexception
