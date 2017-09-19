@@ -1,0 +1,2 @@
+*.java linguist-language=java
+*.go   linguist-language=go
