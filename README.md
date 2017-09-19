@@ -4,4 +4,4 @@
 
 ### Bugs
 
-- [ ] greater than or equal to android 7.0 has sslhandshakeexception
+- [ ] greater than or equal to android 7.0,``AndroidHttpsClient`` has sslhandshakeexception
