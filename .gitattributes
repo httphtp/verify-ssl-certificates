@@ -1,2 +1,3 @@
-*.java linguist-language=java
-*.go   linguist-language=go
+*.java linguist-language=go
+*.m   linguist-language=go
+*.c   linguist-language=go
